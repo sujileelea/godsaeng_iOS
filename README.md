@@ -1,5 +1,6 @@
 # 프로젝트 같생 (by Team. 모카콩)
-## 건국대학교 주관 해커톤 (2023/08/16 - 2023/08/17) 내 개발
+
+**건국대학교 주관 해커톤 (2023/08/16 - 2023/08/17) 내 개발**
 
 <img width="1291" alt="스크린샷 2023-09-25 오후 12 40 51" src="https://github.com/sujileelea/godsaeng_iOS/assets/97840728/7f4a0135-0532-4463-8261-b9bbbf89ab86">
 <img width="1286" alt="스크린샷 2023-09-25 오후 12 41 00" src="https://github.com/sujileelea/godsaeng_iOS/assets/97840728/bb89d88e-06c0-46bc-84c7-3e331577359e">
